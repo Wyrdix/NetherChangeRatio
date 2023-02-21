@@ -1,0 +1,9 @@
+name: NetherChangeRatio
+version: '${project.version}'
+main: com.github.wyrdix.netherchangeratio.NetherChangeRatio
+api-version: 1.18
+prefix: NCR
+authors: [ Wyrdix ]
+description: Let you handle overworld to nether distance ratio
+website: github.com/wyrdix
+load: STARTUP

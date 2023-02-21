@@ -1,0 +1,4 @@
+#Be aware that changing this value will greatly change the way links from previous portals are handled.
+#If this value is high, the portal will still work but teleportation may seem a bit random.
+#because the frame you enter the portal in will have a big impact on where you are sent.
+ratio: 8 #Ratio by default in minecraft
